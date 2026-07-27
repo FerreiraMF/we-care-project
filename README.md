@@ -9,7 +9,6 @@ https://ferreiramf.github.io/we-care-project/
 
 ## 📸 Preview
 
-```md
 <p align="center">
   <img src="https://github.com/FerreiraMF/we-care-project/blob/master/img/desktop.png?raw=true" width="800"/>
 </p>
